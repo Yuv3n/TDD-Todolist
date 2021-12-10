@@ -1,0 +1,5 @@
+db.sqlite3
+geckodriver.log
+GoatVenv
+__pycache__
+*.pyc
